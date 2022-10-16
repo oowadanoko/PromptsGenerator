@@ -1,0 +1,12 @@
+D:\Projects\CS\PromptsGenerator\PromptsGenerator\bin\Release\PromptsGenerator.exe.config
+D:\Projects\CS\PromptsGenerator\PromptsGenerator\bin\Release\PromptsGenerator.exe
+D:\Projects\CS\PromptsGenerator\PromptsGenerator\bin\Release\PromptsGenerator.pdb
+D:\Projects\CS\PromptsGenerator\PromptsGenerator\obj\Release\PromptsGenerator.csproj.AssemblyReference.cache
+D:\Projects\CS\PromptsGenerator\PromptsGenerator\obj\Release\PromptsGenerator.csproj.SuggestedBindingRedirects.cache
+D:\Projects\CS\PromptsGenerator\PromptsGenerator\obj\Release\Oowada.PromptsGenerator.Forms.BatchAddForm.resources
+D:\Projects\CS\PromptsGenerator\PromptsGenerator\obj\Release\Oowada.PromptsGenerator.Forms.MainForm.resources
+D:\Projects\CS\PromptsGenerator\PromptsGenerator\obj\Release\PromptsGenerator.Properties.Resources.resources
+D:\Projects\CS\PromptsGenerator\PromptsGenerator\obj\Release\PromptsGenerator.csproj.GenerateResource.cache
+D:\Projects\CS\PromptsGenerator\PromptsGenerator\obj\Release\PromptsGenerator.csproj.CoreCompileInputs.cache
+D:\Projects\CS\PromptsGenerator\PromptsGenerator\obj\Release\PromptsGenerator.exe
+D:\Projects\CS\PromptsGenerator\PromptsGenerator\obj\Release\PromptsGenerator.pdb
